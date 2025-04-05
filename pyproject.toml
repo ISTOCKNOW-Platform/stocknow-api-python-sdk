@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pystocknow"  # Replace with your desired package name (must be unique on PyPI)
-version = "0.1.0"          # Follow semantic versioning (e.g., 1.0.0, 0.2.1)
+version = "0.1.1"          # Follow semantic versioning (e.g., 1.0.0, 0.2.1)
 authors = [
   { name="StockNowAdmin", email="support@stocknow.xyz" },
 ]

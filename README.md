@@ -1,4 +1,4 @@
-# StockNow data &amp; insights API Client Library for Python
+# StockNow Platform data &amp; insights API Client Library for Python
 ## Install package
 ```
 pip3 install pystocknow
