@@ -17,6 +17,9 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 keywords = ["StockNow", "Data", "Insights", "Python API"]
+dependencies = [
+    "requests"
+]
 
 [project.urls]
 "Homepage" = "https://github.com/ISTOCKNOW-Platform/stocknow-api-python-sdk"
