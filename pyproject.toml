@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pystocknow"  # Replace with your desired package name (must be unique on PyPI)
+version = "0.1.0"          # Follow semantic versioning (e.g., 1.0.0, 0.2.1)
+authors = [
+  { name="StockNowAdmin", email="support@stocknow.xyz" },
+]
+description = "Python programming interface for read StockNow platform marketing data and insights."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache License",
+    "Operating System :: OS Independent",
+]
+keywords = ["StockNow", "Data", "Insights", "Python API"]
+
+[project.urls]
+"Homepage" = "https://github.com/ISTOCKNOW-Platform/stocknow-api-python-sdk"
+"Bug Tracker" = "https://github.com/ISTOCKNOW-Platform/stocknow-api-python-sdk/issues"
